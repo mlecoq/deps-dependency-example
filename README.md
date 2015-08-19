@@ -1,4 +1,4 @@
-Deps Dependency Example
+Tracker Dependency Example
 ===================
 
-Version using **deps dependency** of generated code by _meteor create_.
+Version using **tracker dependency** of generated code by _meteor create_.

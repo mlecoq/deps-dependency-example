@@ -2,7 +2,7 @@ if (Meteor.isClient) {
   // counter starts at 0
   var counter =-1;
 
-  var count = new Deps.Dependency();
+  var count = new Tracker.Dependency();
 
   Template.hello.helpers({
     counter: function () {
